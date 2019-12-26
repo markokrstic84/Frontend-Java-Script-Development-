@@ -1,0 +1,98 @@
+body {
+	background: #534741;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Romanesco', cursive;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+img {
+	vertical-align; bottom;
+}
+#wrapper {
+	width: 950px;
+	padding: 15px;
+	margin: 10px auto 0;
+	background: #FFFFFF;
+	box-shadow: 0 2px 4px #333333;
+	border-radius: 4px;
+}
+#nav {
+	background: #534741;
+	padding: 15px;
+	margin: 0 0 15px;
+
+}
+#nav h1 {
+	font-family: 'Romanesco', cursive;
+	font-size: 28px;
+	text-align: center;
+	color:  #CCCC99;
+	margin: 0;
+}
+#sidebar {
+	background: #CCCC99;
+	height: 710px;
+	width: 280px;
+	float:left;
+	margin: 0 0 15px;
+	box-shadow: 0 2px 4px #333333;
+	border-radius: 4px;
+}
+#sidebar li {
+	font-family: 'Romanesco', cursive;
+	font-size: 28px;
+	color: #534741;
+	text-align: left;
+	padding: 15px;
+}
+#main {
+	background: #white;
+	height: 710px;
+	width: 660px;
+	float: right;
+	margin: 0 0 15px;
+	box-shadow: 0 2px 4px #333333;
+	border-radius: 4px;
+}
+#main h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	color: #534741;
+	text-align: left;
+	padding: 0 0 0 15px;
+}
+#main h4 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #534741;
+	text-align: left;
+	padding: 0 0 0 15px;
+}
+#main table {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #CCCC99;
+	text-align: left;
+	padding: 15px;
+	background: #534741;
+}
+#main p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #534741;
+	text-align: left;
+	padding: 0 15px 0 15px;
+}
+
+#footer {
+	background: #534741;
+	clear: both;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding: 10px;
+}
+#footer p {
+	margin: 0;
+}
